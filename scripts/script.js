@@ -4,7 +4,7 @@ $(document).ready(function() {
     const myDataArrayOfObjects = [
        {
        show: "Gage likes Juice WRLD",
-         status: "He listened to 'Ador You' this morning"
+         status: "He listened to 'Adore You' this morning"
         },
        {
         show: "He uses Old Spice body wash",
