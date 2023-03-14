@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&display=swap');
+body {
+    font-family: 'Ubuntu Condensed', sans-serif;
+
+  background-image: url('https://i.ytimg.com/vi/8LlFO6S4uzg/maxresdefault.jpg');
+}
+
+h1 {
+    color:white
+}
+
+h4 {
+    color:white
+}
+
+span {
+    color:white
+}
+
+.maintxt {
+    position: relative;
+  }
+  .maintxt > img,
+  .overlay-text {
+    position: absolute;
+  }
+  
+  .img {
+    width: 255px;
+  }
+
+p {
+    color:white
+}
+  
